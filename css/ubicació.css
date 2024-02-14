@@ -1,0 +1,30 @@
+body{
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;  
+    text-align: center;
+}
+
+.textooo{
+    text-align: center;
+    font-weight: bold;
+}
+.paginaaa{
+    text-align: center;
+    font-weight: bold;
+    font-family: cursive;
+    
+}
+footer {
+    background-color: black;
+    color: #fff;
+    padding: 20px 0;
+}
+header{
+    background-color: black;
+    color: white;
+    padding: 20px 0;
+    font-family: cursive;
+}
